@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621120754582",
+    "project_id": "questcovid-38c5e",
+    "storage_bucket": "questcovid-38c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621120754582:android:05bba3d3563ac7a4bbc3b7",
+        "android_client_info": {
+          "package_name": "com.example.atvcovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621120754582-m9ctrpberf1n5gbd2a3pcb4ejgprk9ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIH9ZM2nFZvxZMxbPD3Xu6hAQ3EGvjyXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621120754582-m9ctrpberf1n5gbd2a3pcb4ejgprk9ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
